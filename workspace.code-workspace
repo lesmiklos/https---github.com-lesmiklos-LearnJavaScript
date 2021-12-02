@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\Functions"
+		},
+		{
+			"path": "..\\Arrays"
+		},
+		{
+			"path": "..\\Basics"
+		},
+		{
+			"path": "..\\CodeExamples"
+		},
+		{
+			"path": "..\\Exercises"
+		},
+		{
+			"path": "..\\Exercises-2"
+		},
+		{
+			"path": "..\\Objects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Functions"
+	}
+}
